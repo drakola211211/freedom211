@@ -1,0 +1,54 @@
+/* xs */
+
+
+@media screen and (min-width:0px) and (max-width:600px){
+ h2{
+    font-size: 30px;
+ }
+ .lead{
+    font-size: 19px;
+ }
+}
+
+/* sm */
+@media screen and (min-width:601px) and (max-width:768px){
+    h2{
+        font-size: 40px;
+     }
+     .lead{
+        font-size: 22px;
+     }
+}
+
+/* md */
+
+@media screen and (min-width:769px) and (max-width:991px){
+    h2{
+        font-size: 50px;
+     }
+     .lead{
+        font-size: 24px;
+     }  
+}
+
+/* lg */
+
+@media screen and (min-width:992px) and (max-width:1200px){
+    h2{
+        font-size: 60px;
+     }
+     .lead{
+        font-size: 24px;
+     }
+}
+
+/* xl */
+@media screen and (min-width:1201px) {
+    h2{
+        font-size: 64px;
+     }
+     .lead{
+        font-size: 24px;
+     }
+   
+}
